@@ -1,16 +1,17 @@
-# Flyr - Open-Source Bike-Sharing
-*Flyr is an open-source attempt to re-implement Lyft, Lime or you favourite bike-sharing platform.*
+# Flyr - Open-Source Bike-Sharing ![image](https://i.imgur.com/DHJytOc.png)
+*Flyr is an open-source attempt to re-implement Lyft, Lime or your favourite bike-sharing platform.*
 
 ![NTWOC](https://img.shields.io/badge/NTWoC-2018-blue.svg) ![WTFPL](https://img.shields.io/badge/license-WTFPL-green.svg)
 
 ## Tech Stack
 ### Back-End
-Phoenix Framework
-Apache Kafka
-Redis
+* Microservices
+* Phoenix Framework
+* Apache Kafka
+* Redis
 
 ### Front-End
-Bootstrap*
+* Bootstrap*
 
 ## NTWoC Project Details
 
@@ -20,12 +21,12 @@ Flyr is yet another bike-sharing platform, built for ~~profit~~ learning, unders
 
 ### Responsibilities
 
-1) Back-End Developer $$$$
-2) Front-End Developer $$
-3) Algorithms Developer $$$
-4) Integration & Testing $$$
+1) **Back-End Developer** ```$$$$```
+2) **Front-End Developer** ```$$```
+3) **Algorithms Developer** ```$$$```
+4) **Integration & Testing** ```$$$```
 
-*$ strictly indicates the difficulty of a responsibility and responsibility ∝ commitment*
+*$ strictly indicates the difficulty of a responsibility and commitment ∝ responsibility*
 
 ### Ideas that to be implemented
 
@@ -36,7 +37,7 @@ Flyr is yet another bike-sharing platform, built for ~~profit~~ learning, unders
 
 ### *Opinions
 The Phoenix-Elixir stack is definitely the best-in-class yet learning Erlang / Elixir has a quite high learning curve. *This is an issue that needs to be discussed and figured out.* If the project contributors aren't at all familiar with this stack, we might need to use **Node.js or Django or Flask** as the back-end framework.
-Also, Bootstrap is chosen to keep things simple and understandable. But we can definitely discuss usage of other front-end frameworks if people contributors are ready.
+Also, Bootstrap is chosen to keep things simple and understandable. But we can definitely discuss usage of other front-end frameworks if contributors are ready to take up.
 
 ### New ideas
 New ideas are always welcome. We'll discuss feasibility of acceptance of new ideas based on status of completion of the project and the contribution curve.
@@ -51,8 +52,8 @@ Anyone can choose to participate in NTWoC from SRM. It is free, it is open and e
 4) Own the project. If you are putting hard work into it, its definitely your (and other fellow contributors') product to showcase.
 
 ### Contributing to this Project
-Read CONTRIBUTING.MD file in the repository to learn more about making pull requests, and contributing in general.
+Read CONTRIBUTING.MD file in the repository to learn more about making pull requests, and contributing in general. **Also, to find out your commitments, eligibility of the project, takeaways of the project, you should read this [post](https://rounakdatta.github.io/2018/09/28/flyr.html).**
 
 ## Project Maintainers
 The project is currently being maintained by :  
-1) Rounak Datta (rounakdatta) - Next Tech Lab
+1) Rounak Datta (![rounakdatta](https://github.com/rounakdatta)) - Next Tech Lab

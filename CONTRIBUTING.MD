@@ -16,7 +16,6 @@ What are the changes in the Project? (Brief Idea of the Change)
 Why is the change required?  
 What do you plan to do next?  
 
-
 ### Raising Issues
 
 Raising issues is always welcome. It should be project related and oriented towards the betterment of the project.
