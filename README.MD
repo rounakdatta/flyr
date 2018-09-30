@@ -1,5 +1,5 @@
 # Flyr - Open-Source Bike-Sharing ![image](https://i.imgur.com/DHJytOc.png)
-*Flyr is an open-source attempt to re-implement Lyft, Lime or your favourite bike-sharing platform.*
+*Flyr is an open-source attempt to re-implement Lime, Bird or your favourite bike-sharing platform.*
 
 ![NTWOC](https://img.shields.io/badge/NTWoC-2018-blue.svg) ![WTFPL](https://img.shields.io/badge/license-WTFPL-green.svg)
 
@@ -56,4 +56,4 @@ Read CONTRIBUTING.MD file in the repository to learn more about making pull requ
 
 ## Project Maintainers
 The project is currently being maintained by :  
-1) Rounak Datta (![rounakdatta](https://github.com/rounakdatta)) - Next Tech Lab
+1) Rounak Datta ([rounakdatta](https://github.com/rounakdatta)) - Next Tech Lab
