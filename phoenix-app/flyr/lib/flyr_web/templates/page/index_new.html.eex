@@ -1,20 +1,25 @@
 <div class="jumbotron">
   <h2><%= gettext "Welcome to %{name}!", name: "Flyr" %></h2>
+  <img src="https://i.imgur.com/DHJytOc.png">
   <p class="lead">Flyr is an open-source attempt to re-implement Lime, Bird or your favourite bike-sharing platform.</p>
 </div>
+
+<center>
+	<a href="/about"><button>About</button></a>
+</center>
 
 <div class="row marketing">
   <div class="col-lg-6">
     <h4>Resources</h4>
     <ul>
       <li>
-        <a href="http://phoenixframework.org/docs/overview">Guides</a>
+        <a target="_blank" href="https://elixirschool.com/en/lessons/basics/basics/">Elixir</a>
       </li>
       <li>
-        <a href="https://hexdocs.pm/phoenix">Docs</a>
+        <a target="_blank" href="https://drive.google.com/open?id=1cCRUPms5HqAmyj66fjqXPUWBkgc8l_jE">Phoenix Framework</a>
       </li>
       <li>
-        <a href="https://github.com/phoenixframework/phoenix">Source</a>
+        <a target="_blank" href="https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05">Apache Kafka</a>
       </li>
     </ul>
   </div>
@@ -23,13 +28,10 @@
     <h4>Help</h4>
     <ul>
       <li>
-        <a href="http://groups.google.com/group/phoenix-talk">Mailing list</a>
+        <a target="_blank" href="https://nexttech-woc.slack.com/">NTWoC Slack</a>
       </li>
       <li>
-        <a href="http://webchat.freenode.net/?channels=elixir-lang">#elixir-lang on freenode IRC</a>
-      </li>
-      <li>
-        <a href="https://twitter.com/elixirphoenix">@elixirphoenix</a>
+        <a target="_blank" href="https://t.me/joinchat/GGDDgg_EY8MgItxe7jLV7w">Flyr Telegram</a>
       </li>
     </ul>
   </div>

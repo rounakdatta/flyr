@@ -42,4 +42,4 @@ mix phx.server
 
 In case of Postgresql errors regarding authentication, refer [this](https://stackoverflow.com/questions/7695962/postgresql-password-authentication-failed-for-user-postgres), try creating a new DB, using the correct username-password. If things work correctly, you should be greeted with our homepage :
 
-![Homepage](https://i.imgur.com/0JVTu3O.png)
+![Homepage](https://i.imgur.com/xM713dd.png)

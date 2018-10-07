@@ -8,10 +8,11 @@
 * Microservices
 * Phoenix Framework
 * Apache Kafka
-* Redis
+* Redis / PostreSQL
 
 ### Front-End
-* TBD
+* Mithril.js
+* bss
 
 ## NTWoC Project Details
 
@@ -28,7 +29,7 @@ Flyr is yet another bike-sharing platform, built for ~~profit~~ learning, unders
 
 *$ strictly indicates the difficulty of a responsibility and commitment ∝ responsibility*
 
-### Ideas that to be implemented
+### Ideas to be implemented
 
 1. Phoenix Framework is the best-in-class web-framework that powers the entire application and it uses Elixir* programming language. We need to define routes, construct the data pipeline and connect back-end pieces to front-end.
 2. Microservices architecture - Distributed i.e. each µservice independently responsible for programmed functions. We need to program every µservice and get them communicating with each other.
@@ -51,13 +52,14 @@ Anyone can choose to participate in NTWoC from SRM. It is free, it is open and e
 4) Own the project. If you are putting hard work into it, its definitely your (and other fellow contributors') product to showcase.
 
 ### Contributing to this Project
-Read [CONTRIBUTING.MD](https://github.com/rounakdatta/flyr/blob/master/CONTRIBUTING.MD) to learn more about making pull requests, and contributing in general. **Also, to know more of your commitments, eligibility, takeaways of the project, you should read this [post](https://rounakdatta.github.io/2018/09/28/flyr.html).**
+Read [CONTRIBUTING.md](https://github.com/rounakdatta/flyr/blob/master/CONTRIBUTING.MD) to learn more about making pull requests, and contributing in general. **Also, to know more of your commitments, eligibility, takeaways of the project, you should read this [post](https://rounakdatta.github.io/2018/09/28/flyr.html).**
 
 ### Resources
 * Basics of Elixir - [Elixir School](https://elixirschool.com/en/lessons/basics/basics/)
 * Learn Erlang - [LYSE](https://learnyousomeerlang.com/content), [Sample Code](https://github.com/rounakdatta/erlearning)
-* Understand the fundamentals of Kafka [here](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05) and [here](https://medium.com/@shagun/notes-about-kafka-cc6c1b5c5025) . Experiment with Kafka [here](http://blog.adnansiddiqi.me/getting-started-with-apache-kafka-in-python/) and see a [sample project](https://github.com/kadnan/Calories-Alert-Kafka).
-* Read about Microservices at [Netflix](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b) and [SoundCloud](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?).
+* Understand the fundamentals of Kafka [here](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05) and [here](https://medium.com/@shagun/notes-about-kafka-cc6c1b5c5025) . Experiment with Kafka [here](http://blog.adnansiddiqi.me/getting-started-with-apache-kafka-in-python/) and see a [sample project](https://github.com/kadnan/Calories-Alert-Kafka)
+* Read about Microservices at [Netflix](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b) and [SoundCloud](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html?)
+* Learn [Mithril.js](https://mithril.js.org/) and [bss](https://www.npmjs.com/package/bss)
 
 ## Project Maintainers
 The project is currently being maintained by :  

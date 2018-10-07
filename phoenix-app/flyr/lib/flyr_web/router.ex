@@ -18,7 +18,7 @@ defmodule FlyrWeb.Router do
 
     # all the routes go here
     get "/", PageController, :index
-    get  "/about", PageController, :about
+    get "/about", PageController, :about
   end
 
   # Other scopes may use custom stacks.
